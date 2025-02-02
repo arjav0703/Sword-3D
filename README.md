@@ -6,4 +6,4 @@ Click on the image to see the animation
 [![render](render/finale.png)](https://cloud-56e9d5rbu-hack-club-bot.vercel.app/0render.mp4)
 ---
 ### Acknowledgement
-Thanks to CGS FastTrack for [this amazing playlist/tutorial](https://youtube.com/playlist?list=PL8eKBkZzqDiV2xca_7QVNdG8LGBfZBCkI&si=XqIqFrLmBEW1bWBe)
+Thanks to CGS FastTrack for [this amazing playlist/tutorial](https://youtube.com/playlist?list=PL8eKBkZzqDiV2xca_7QVNdG8LGBfZBCkI&si=XqIqFrLmBEW1bWBe) and for all of the textures and design elements.
