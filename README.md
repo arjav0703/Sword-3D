@@ -7,3 +7,7 @@ Click on the image to see the animation
 ---
 ### Acknowledgement
 Thanks to CGS FastTrack for [this amazing playlist/tutorial](https://youtube.com/playlist?list=PL8eKBkZzqDiV2xca_7QVNdG8LGBfZBCkI&si=XqIqFrLmBEW1bWBe) and for all of the textures and design elements.
+
+#### Tools used
+- Blender 
+- Kdenlive
